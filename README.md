@@ -1,5 +1,7 @@
-### Hi there 👋
+Hi there, I'm Darek
+👨‍💻 I am a Graphic Designer & Front-end Developer
 🔭 I’m currently working on DLDESIGN
+Contact me at: lidarek@gmail.com
 
 <!--
 **dareklitwiniec/dareklitwiniec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
