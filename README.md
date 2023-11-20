@@ -1,6 +1,9 @@
 Hi there, I'm Darek
+
 👨‍💻 I am a Graphic Designer & Front-end Developer
+
 🔭 I’m currently working on DLDESIGN
+
 Contact me at: lidarek@gmail.com
 
 <!--
